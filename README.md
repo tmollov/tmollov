@@ -1,6 +1,6 @@
 ### Hello there!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+![](https://github.com/Schweinepriester/Schweinepriester/blob/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 <!--
