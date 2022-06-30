@@ -1,4 +1,4 @@
-### Hello there!
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello+There+!)](https://git.io/typing-svg)
 
 ![](https://github.com/Schweinepriester/Schweinepriester/blob/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
