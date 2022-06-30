@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there!
+
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 <!--
 **tmollov/tmollov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
