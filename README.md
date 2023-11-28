@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello+There+!)](https://git.io/typing-svg)
 
-[Github Trends](https://api.githubtrends.io/user/svg/tmollov/langs?time_range=one_year&include_private=True&theme=classic)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tmollov/langs?time_range=one_year&include_private=True&theme=classic)(https://githubtrends.io)
 <!--
 **tmollov/tmollov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
